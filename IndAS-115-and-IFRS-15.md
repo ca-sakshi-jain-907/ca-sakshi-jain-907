@@ -1,8 +1,8 @@
 # The "Free" iPhone Illusion: Unpacking Revenue Recognition under Ind AS 115 & IFRS 15
 
-**Author:** [Your Name/Persona]  
+**Author:** [CA Sakshi Jain](https://www.linkedin.com/in/casakshijain907/)  
 **Topic:** Ind AS 115 / IFRS 15 / ASC 606  
-**Read Time:** 5 Minutes  
+ 
 
 ---
 
@@ -52,9 +52,7 @@ To determine the revenue amount, we use the **Relative Standalone Selling Price 
 
 ### Step 1: Determine Total Fair Value (SSP)
 
-\[
-\text{Total SSP} = \$800 \; (\text{Phone}) + \$600 \; (\text{Service}) = \$1,400
-\]
+{Total SSP} = $800 {Phone} + $600 {Service}) = $1,400
 
 ---
 
@@ -65,15 +63,11 @@ The customer is receiving a package worth **$1,400** for a price of **$1,200**
 
 **Handset Allocation:**
 
-\[
-\frac{\$800}{\$1,400} \times \$1,200 = \mathbf{\$685.71}
-\]
+($800\$1,400) * $1,200 = $685.71
 
 **Service Allocation:**
 
-\[
-\frac{\$600}{\$1,400} \times \$1,200 = \mathbf{\$514.29}
-\]
+($600\$1,400) * $1,200 = $514.29
 *(Approx. $21.43/month)*
 
 ---
@@ -96,7 +90,7 @@ You hand over the phone and invoice **$0**.
 You invoice the customer **$50**.
 
 - **Credit:** Service Revenue — $21.43  
-- **Credit:** Contract Asset — $28.57 *(Reducing the Day 1 “loan”)*  
+- **Credit:** Contract Asset — $28.57 *(Reducing the Day 1 “loan” for iphone set)*  
 - **Debit:** Accounts Receivable / Cash — $50.00  
 
 ---
@@ -109,7 +103,7 @@ Understanding this disconnect is critical for organizational health for three pr
 
 During a major product launch (e.g., a new iPhone cycle), revenue and EBITDA will appear to explode because handset revenue is front-loaded. However, **Cash Flow from Operations (CFO)** will remain flat.
 
-Stakeholders must be educated that this “growth” is an accounting entry, not immediate liquidity.
+Stakeholders must be careful that this “growth” is an accounting entry, not immediate liquidity.
 
 ---
 
@@ -125,9 +119,7 @@ The actual cash to back those profits may not arrive for another **12–18 month
 
 Standard forecasting models often assume:
 
-\[
-\text{Cash} = \text{Revenue} \times (1 - \text{DSO})
-\]
+Cash = Revenue \times (1 - \text{DSO})
 
 In a bundled environment, this logic fails. Analysts must model **Billing Schedules** and **Revenue Recognition** as two entirely separate workstreams.
 
